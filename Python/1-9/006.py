@@ -1,4 +1,5 @@
 sum_of_squares = 0
+
 for number in range(101):
     sum_of_squares = sum_of_squares + number * number
 
